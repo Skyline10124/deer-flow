@@ -1,0 +1,4 @@
+[submodule "launcher"]
+	path = launcher
+	url = https://github.com/Skyline10124/deerflow-launcher.git
+	branch = feature/bun
